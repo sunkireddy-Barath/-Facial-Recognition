@@ -68,4 +68,4 @@ jupyter notebook OpenCV-Face-Recognition-Python.ipynb
 
 ## License
 
-This project is licensed under the MIT License. Copyright (c) 2017 Sunkireddy Barath.
+This project is licensed under the MIT License. Copyright (c) 2026 Sunkireddy Barath.
